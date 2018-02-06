@@ -1,0 +1,5 @@
+# Ignore Photo Files
+*.jpg
+*.png
+*.svn
+*.bmp
